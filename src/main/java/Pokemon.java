@@ -91,6 +91,7 @@ public class Pokemon {
         this.attackLevel = 0;
         this.defenseLevel = 0;
         this.name = "";
+        //djshfoidhfoi;
     }
 
     /**
